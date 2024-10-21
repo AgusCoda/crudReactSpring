@@ -1,0 +1,12 @@
+.tareas-container {
+    padding: 20px;
+}
+
+.tarea-input {
+    display: flex;
+    gap: 10px;
+}
+
+.tarea-input input {
+    flex: 1;
+}
